@@ -1,0 +1,2 @@
+# WereWolf
+WereWolf for Discord.
